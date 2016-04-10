@@ -1,0 +1,66 @@
+2016 Apr 10 14:39:57
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:01
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+      dtrace, 23189,     0,     2,2
+       utmpd,   259,     1,     5,6
+2016 Apr 10 14:40:05
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:40:09
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:40:13
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:17
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:40:21
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     1,1
+2016 Apr 10 14:40:25
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:29
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:33
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:40:37
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+        nscd,  1447,     0,     3,3
+2016 Apr 10 14:40:41
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:45
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:40:49
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:40:53
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     1,1
+2016 Apr 10 14:40:57
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:41:01
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:41:05
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:41:09
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:41:13
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+2016 Apr 10 14:41:17
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     2,0
+2016 Apr 10 14:41:21
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+    nfsmapid,  1351,     0,     1,1
+        nscd,  1447,     0,     1,1
+2016 Apr 10 14:41:25
+    EXECNAME,   PID,CREATE,  OPEN,SUCCESS
+
+

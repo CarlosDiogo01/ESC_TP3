@@ -1,0 +1,4 @@
+sysinfo:::pswitch
+{
+	@[execname]=count();
+}

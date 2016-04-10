@@ -1,0 +1,40 @@
+ CPU     ID                    FUNCTION:NAME
+   1   2153                as_fault:as_fault 
+   1   1934               page_reclaim:pgrec 
+   1   1963              page_reclaim:pgfrec 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   1934               page_reclaim:pgrec 
+   1   1963              page_reclaim:pgfrec 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+
+
+ CPU     ID                    FUNCTION:NAME
+   1   2153                as_fault:as_fault 
+   1   1934               page_reclaim:pgrec 
+   1   1963              page_reclaim:pgfrec 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2028                   anon_zero:zfod 
+   1   2153                as_fault:as_fault 
+   1   2153                as_fault:as_fault 
+   1   1934               page_reclaim:pgrec 
+   1   1963              page_reclaim:pgfrec 
+
+

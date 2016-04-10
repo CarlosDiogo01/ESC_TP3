@@ -1,0 +1,23 @@
+
+
+  dlmgmtd                                                           1
+  fmd                                                               1
+  inetd                                                             1
+  intrd                                                             1
+  nwamd                                                             1
+  rad                                                               1
+  sendmail                                                          1
+  sshd                                                              1
+  svc.startd                                                        1
+  automountd                                                        2
+  dhcpagent                                                         2
+  gnome-power-mana                                                  3
+  devfsadm                                                          5
+  fsflush                                                           8
+  gdm-simple-greet                                                 12
+  Xorg                                                             13
+  svc.configd                                                      81
+  nscd                                                             83
+  dtrace                                                          112
+  zpool-rpool                                                     127
+  sched                                                          2068
